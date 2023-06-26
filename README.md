@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Mechanical and automation student at Indira Gandhi Delhi Technical University For Women
+### . Mechanical and automation student at Indira Gandhi Delhi Technical University For Women
 <!--
 **Pujak09/PujaK09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
