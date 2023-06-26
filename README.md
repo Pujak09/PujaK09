@@ -1,5 +1,12 @@
-### Hi there 👋
-### . Mechanical and automation student at Indira Gandhi Delhi Technical University For Women
+### 👋 Hello, I'm [Puja Kumari]!
+### 📚 Education: Mechanical and automation student at Indira Gandhi Delhi Technical University for Women (IGDTUW)
+### 👨‍💻 About Me:
+### I am passionate about technology and its ability to solve real-world problems. With a good foundation in web development and coding, I constantly strive to expand my knowledge and skills in the ever-evolving world of technology.
+### 🔧 Skills:
+### - Programming Languages: [C, C++, Html, CSS, JavaScript]
+### - Web Technologies: [Git, HTML5, CSS3, JavaScript, MongoDB]
+
+
 <!--
 **Pujak09/PujaK09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
